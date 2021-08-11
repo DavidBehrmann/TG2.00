@@ -1,4 +1,16 @@
-.Myprofile {
+
+body{
+    background-color: brown;
+    
+}
+h2{
+    color: burlywood;
+}
+.profile{
+    border: solid orange 5px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
-    background-color: coral;
+  background-color: coral;
+
 }
